@@ -5,7 +5,7 @@
 
 ## Завантаження
 
-[![Завантажити програму](https://img.shields.io/badge/Завантажити-програму-blue?style=for-the-badge&logo=windows)](https://github.com/MULTIGID/Maze_generator/raw/refs/heads/main/Maze_generator_UKR.rar)
+[![Завантажити програму](https://img.shields.io/badge/Завантажити-програму-blue?style=for-the-badge&logo=windows)](https://github.com/MULTIGID/Maze_generator/raw/refs/heads/main/Maze_generator_UKR.zip)
 
 [![Завантажити мануал UA](https://img.shields.io/badge/Завантажити-мануал_UA-green?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/MULTIGID/Maze_generator/raw/refs/heads/main/User_manual_UKR.pdf)
 
