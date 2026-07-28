@@ -6,16 +6,10 @@
 ## Завантаження
 
 <div align="center">
-
-<a href="https://github.com/MULTIGID/Maze_generator/raw/refs/heads/main/Maze_generator_UKR.zip">
-  <img src="https://img.shields.io/badge/Завантажити-програму-blue?style=for-the-badge&logo=windows" alt="Завантажити програму">
-</a>
-&nbsp;
-<a href="https://github.com/MULTIGID/Maze_generator/raw/refs/heads/main/User_manual_UKR.pdf">
-  <img src="https://img.shields.io/badge/Завантажити-мануал_UA-green?style=for-the-badge&logo=adobeacrobatreader" alt="Завантажити мануал UA">
-</a>
-
+<a href="https://github.com/MULTIGID/Maze_generator/raw/refs/heads/main/Maze_generator_UKR.zip"><img src="https://img.shields.io/badge/Завантажити-програму-blue?style=for-the-badge&logo=windows" alt="Завантажити програму"></a>&nbsp;&nbsp;<a href="https://github.com/MULTIGID/Maze_generator/raw/refs/heads/main/User_manual_UKR.pdf"><img src="https://img.shields.io/badge/Завантажити-мануал_UA-green?style=for-the-badge&logo=adobeacrobatreader" alt="Завантажити мануал UA"></a>
 </div>
+
+<br>
 
 Завантажте архів, розпакуйте його та запустіть виконуваний файл програми. Детальний опис використання доступний у PDF-інструкції.
 
