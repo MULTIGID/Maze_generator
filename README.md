@@ -7,7 +7,7 @@
 
 [![Завантажити програму](https://img.shields.io/badge/Завантажити-програму-blue?style=for-the-badge&logo=windows)](https://github.com/MULTIGID/Maze_generator/raw/refs/heads/main/Maze_generator_UKR.rar)
 
-[![Завантажити мануал](https://img.shields.io/badge/Завантажити-інструкцію-green?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/MULTIGID/Maze_generator/raw/refs/heads/main/User_manual_UKR.pdf)
+[![Завантажити мануал](https://img.shields.io/badge/Завантажити-мануал-green?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/MULTIGID/Maze_generator/raw/refs/heads/main/User_manual_UKR.pdf)
 
 Завантажте архів, розпакуйте його та запустіть виконуваний файл програми. Детальний опис використання доступний у PDF-інструкції.
 ## Основні можливості
